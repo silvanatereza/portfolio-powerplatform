@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./identidade/banner_github_silvana.png" alt="Silvana Rocha - Power Apps Developer & Data Analyst in Progress" width="100%">
+  <img src="./banner_github_silvana.png" alt="Silvana Rocha - Power Apps Developer & Data Analyst in Progress" width="100%">
 </p>
 
 <h1 align="center">🌟 Silvana Rocha</h1>
 <p align="center"><b>Power Apps Developer & Data Analyst in Progress</b></p>
 
 <p align="center">
-  <img src="./identidade/avatar_silvana.png" alt="Avatar Silvana Rocha" width="160">
+  <img src="./avatar_silvana.png" alt="Avatar Silvana Rocha" width="160">
 </p>
 
 <p align="center"><i>Transformando ideias em soluções reais com Power Platform &amp; Dados.</i></p>
